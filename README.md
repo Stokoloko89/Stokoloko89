@@ -1,4 +1,4 @@
--👋 Hi, I’m @Stokoloko89
+-👋 Hi, I’m Lunga
  
  🌱 Based in the beautiful country of South Africa, I am a tech enthusiast who is currently learning web development technologies. I have nearly 10 years of experience  in sales & marketing and am transitioning to a software development role. 
 
